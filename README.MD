@@ -6,7 +6,7 @@
 
 ### Hola Juano
 
-[!UltimoPaso](img/holajuano.png)
+![UltimoPaso](img/holajuano.png)
 
 :spring_version: current
 :toc:
